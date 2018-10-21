@@ -1,17 +1,45 @@
-## 19 世纪以来心理学的所有分支学科以及这些分支学科出现的时间
-理解题意
-建立搜索式
-得出搜索结果
-交叉验证
+> 搜索19世纪以来，心理学出现的分支学科， 并列出这些分支学科出现的时间 记录你的检索时间和过程
 
-首先在Wiki上搜索关键词“psychology”、“psychology”+“timeline”获得心理学的总体介绍以及心理学的时间线。
-进入网站Wikipedia：
-[Psychology](https://en.wikipedia.org/wiki/Psychology)
+## 0.摘要
 
-为了加快页面搜索使用了 ctrl F 搜索“timeline”，找到“timeline”
-跳转到“timeline”页面，发现“[Nineteenth century](https://en.wikipedia.org/wiki/Timeline_of_psychology#Nineteenth_century)
-其实也可以搜索”list“找到timeline
-搜索结果：
+尝试用几种方法来搜寻心理学出现的分支学科，并列出这些分支学科出现的时间。明确当前权威性的心理学分支的信息，便于进一步学习。
+
+## 1. 背景
+
+> 题目信息：搜索19世纪以来，心理学出现的分支学科， 并列出这些分支学科出现的时间 记录你的检索时间和过程
+
+通过本案例获得全面了解学科的信息的方法，体现学科设置在时间上的变化以及学科在不同的国家设置的变化，参照课程中通过Nature统计一段时间学科分支增减变化揭示其发展趋势。
+
+
+## 2. 分析和论证过程
+### 分析
+1. 心理学是一门重要的学科，通过Wiki作为信息入口，查找“psychology”或者“psychology”+“timeline”，应该能够找到相关性息；
+2. 查找我国学科设置的权威信息，查找目前我国对该学科的设置
+3. 美国或其它发达国家心理学的设置
+4. 在Nature上查找关于psychology的分支
+### 过程论证
+
+1. Wiki上搜索关键词“psychology”+“timeline”直接找到 [Timeline of psychology](https://en.wikipedia.org/wiki/Timeline_of_psychology)
+发现该网页主要是对psychology的发展时间的记述，对心理学的分支还不是十分清晰。
+![enter image description here](http://pgxvcs297.bkt.clouddn.com/psychology-1.png)
+
+
+![enter image description here](http://pgxvcs297.bkt.clouddn.com/psychology2.png)
+
+
+2. 为更加精确地获得心理学这门学科的分支，需要将搜索式调整为“psychology”+“disciplines”，得到较为理想的结果，但是搜索到的信息并没有提示学科分支的起始时间，看来还需对其时间进行进一步的论证。
+[List of psychology disciplines](https://en.wikipedia.org/wiki/List_of_psychology_disciplines)
+![enter image description here](http://pgxvcs297.bkt.clouddn.com/psychology3.png)
+
+3. 查找我国学科设置的权威信息，查找目前我国对该学科的设置
+ - 百度搜索“学科分类”
+![enter image description here](http://pgxvcs297.bkt.clouddn.com/psychology4.png)
+《中华人民共和国学科分类与代码国家标准**》简称《学科分类与代码》，是中华人民共和国关于学科分类的国家推荐标准，最新版本是GB/T 13745-2009。找到我国心理学设置的相关信息。
+
+![enter image description here](http://pgxvcs297.bkt.clouddn.com/psychology5.png)
+4. 心理学在美国的学科设置
+先在百度上搜索“美国 学科分类 网站”找到专有名词是“美国学科专业分类系统 CIP”，其英文名称为“Classification of Instructional Programs”。这里补充一点，在Google翻译或百度翻译“美国学科专业分类系统 ”与在CNIK翻译助手翻译的结果不一样，后者是正确的。
+直接搜索“Classification of Instructional Programs”site：gov，找到[CIP](https://nces.ed.gov/ipeds/cipcode/cipdetail.aspx?y=55&cipid=88525)官方网站，显示
 
 
 
@@ -22,6 +50,6 @@ ch2 基础任务
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI0MzYwNjgyLDU5NTEwMzYyMiwtMjA4OD
-c0NjYxMiwxMjY5NjkxMTA2XX0=
+eyJoaXN0b3J5IjpbLTcxMDE1MDc4MSw1OTUxMDM2MjIsLTIwOD
+g3NDY2MTIsMTI2OTY5MTEwNl19
 -->
