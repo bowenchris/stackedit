@@ -1,176 +1,157 @@
+Ch300 总清单
 
-# 认知语言学全局认识
+# **任务卡包 1 个：「领取你的 ch3 挑战」领取本章学习任务，了解学习目标**
 
-## [](https://github.com/JanusChoi/IA002/blob/master/ch2/RepTaskBasic.md#%E7%9B%AE%E5%BD%95)目录
+## **ch3 检索实操题**
 
-## [](https://github.com/JanusChoi/IA002/blob/master/ch2/RepTaskBasic.md#0-%E6%91%98%E8%A6%81)0. 摘要
+请根据以下材料填写 A~K 共计 11 个空，其中 B 为详细地址，D 为工商注册公司全称。（温馨提醒：要找的信息似乎很多，但找到套路就不难哦）
 
-这是开智学堂「信息分析」课程第 2 周任务报告，包含分析背景、思路与分析步骤、主要结论、进一步讨论、参考文献等内容，完整重现我获取此题目答案的过程。
+A 是全国知名的餐饮连锁店，公司的雏形（第一家店）是位于 B 二楼的小火锅店。
 
-总体来说有 3 个分析思路——分别是从学术，技术和商业入手。最终采取思路一：确定领域重要学科并下载该学科1000篇论文 ，详细步骤参见正文。
+从品牌 LOGO 变化可以窥见 A 的成长之路。在经营早期，A 使用的是一款蓝色波纹状的品牌 LOGO ——（请补充图片 C ）。
 
-## [](https://github.com/JanusChoi/IA002/blob/master/ch2/RepTaskBasic.md#1-%E8%83%8C%E6%99%AF)1. 背景
+近十多年来，长期使用红色翅膀状 LOGO 。去年与 D 合作，发布全新品牌 LOGO 。
 
-这个想法来自于我的职业发展，因为对人工智能和语言学感兴趣，因此想了解自然语言处理。
+作为一家与时俱进的公司，2012 年 A 发布了 1.0 版本的订餐 APP ，至今该 APP 已迭代至版本 E 。
 
-## [](https://github.com/JanusChoi/IA002/blob/master/ch2/RepTaskBasic.md#2-%E5%88%86%E6%9E%90%E8%BF%87%E7%A8%8B)2. 分析过程
+二十多年辛勤经营，A 交出了一份靓丽的成绩单。2017 年该公司年度收入为 F ，税后利润为 G ，平均资产回报率为 H 。
 
-### [](https://github.com/JanusChoi/IA002/blob/master/ch2/RepTaskBasic.md#21-%E4%B8%89%E7%A7%8D%E6%80%9D%E8%B7%AF)2.1 三种思路
+2018 年 9 月 A 成功在香港上市，股票代号 I ，上市当天股价最高 J 港元，最低 K 港元，市值一度突破千亿港元。
 
-#### [](https://github.com/JanusChoi/IA002/blob/master/ch2/RepTaskBasic.md#%E6%80%9D%E8%B7%AF%E4%B8%80%E4%BB%8E%E5%AD%A6%E7%A7%91%E5%85%A5%E6%89%8B)思路一：从学科入手
+## **ch3 基础任务**
 
-自然语言处理维基定义为：人工智能和语言学领域的分支学科。首先，我会希望利用找到问题背后学科的实践策略，确定该领域重要的学科。第二，在Google学术批量下载某一关键学科的1000篇论文——利用最小知识法则提炼知识框架。
+使用至少 2 个实践策略，获取对某 1-2 家公司的全局认识，进行交叉验证，形成一份信息报告。可以是你工作过的公司，可以从 [IT桔子 - 千里马俱乐部](https://www.itjuzi.com/special/chollima/index.html) 挑选感兴趣的公司。
 
-#### [](https://github.com/JanusChoi/IA002/blob/master/ch2/RepTaskBasic.md#%E6%80%9D%E8%B7%AF%E4%BA%8C%E4%BB%8E%E6%8A%80%E6%9C%AF%E5%85%A5%E6%89%8B)思路二：从技术入手
+Ps. 如涉及个人真实信息，建议使用 ABC 等代号描述，保护个人隐私信息。
 
-首先以GitHub和Kaggle为源头，分析各类工具，技术，模型的使用频率及趋势。然后找到某学术+技术的大牛，查找并研究大牛相关论文和作品。最后得出该领域初步发展策略。
+## **ch3 进阶任务**
 
-#### [](https://github.com/JanusChoi/IA002/blob/master/ch2/RepTaskBasic.md#%E6%80%9D%E8%B7%AF%E4%B8%89%E4%BB%8E%E5%95%86%E4%B8%9A%E5%85%A5%E6%89%8B)思路三：从商业入手
+参考[新三板](http://www.neeq.com.cn/fenglei/hyfl.html) / [上交所](http://www.sse.com.cn/assortment/stock/areatrade/trade/detail.shtml?csrcCode=G) / [深交所](http://www.szse.cn/main/marketdata/jypz/colist/)行业分类，从中挑选任一感兴趣行业，下载至少 3 家公司所有财报，阅读竞争对手分析/风险分析栏目；
 
-首先检索自然语言领域的相关应用如机器翻译，语义分析，语音输入等等。利用专利数据库查找相关专利，分析专利获得年份，机构等信息。了解各个机构想要解决的问题和已取得的关键成果，从而获知今后领域发展趋势。
+<![if !supportLists]>· <![endif]>使用价值链分析法进一步分析所选公司；
 
-### [](https://github.com/JanusChoi/IA002/blob/master/ch2/RepTaskBasic.md#22-%E5%85%B7%E4%BD%93%E6%AD%A5%E9%AA%A4)2.2 具体步骤
+<![if !supportLists]>· <![endif]>预测哪个公司更值得投资，并在 3 月、半年、1 年、3 年、5 年回顾分析，验证自己的判断。
 
-1.  确定涉及学科 从人工智能及语言学的维基页面提取涉及学科列表。
+<![if !supportLists]>· <![endif]>Ps. 新三板公司更接近多数公司真实情况，建议挑选新三板公司分析，获取信息量更大。
 
-人工智能涉及：
+# **概论卡包 3 个：「商业信息分析概论」**
 
-物理学 哲学和认知科学 逻辑学 数学，统计学 心理学 计算机科学 控制论 决定论 不确定性原理 社会学 犯罪学 智能犯罪
+**学习本章理论知识，概览所有实践策略**
 
-语言学分支学科：
+## **如何对商业领域形成全局认识。**
 
--   理论语言学
-    -   语音学
-    -   音韵学
-    -   构词学
-    -   语法学
-    -   语义学
-        -   词汇语义学
-        -   结构语义学
-        -   原型语义学
-    -   语用学
--   应用语言学
-    -   心理语言学
-    -   社会语言学
-    -   生成语言学
-    -   认知语言学
-    -   神经语言学
-    -   计算语言学
-    -   共时语言学
-        -   对照语言学
-    -   历史语言学
-        -   比较语言学
-    -   文体学
-        -   规范语言学
-        -   语源学
-    -   语料库语言学
--   其他
-    -   语言学史
-    -   语言学家列表
-    -   未解的问题
+### **时间周期：**
 
-再查看自然语言分析的详细描述：
+#### **康波周期**
 
-> 自然语言处理（英语：natural language processing，缩写作 NLP）是人工智能和语言学领域的分支学科。此领域探讨如何处理及运用自然语言；自然语言处理包括多方面和步骤，基本有认知、理解、生成等部分。 自然语言认知和理解，让计算机把输入的语言变成有意思的符号和关系，然后根据目的再处理。 自然语言生成系统把计算器数据转化为自然语言。
+（现代资本主义经济体中一种约 50-60 年为一循环的经济周期现象）、
 
-由此缩窄范围：认知语言学，结构语义学，生成语言学，计算机科学。再由此前读过的《语言本能》一书基本确定要分析的学科为：认知语言学。
+#### **技术成熟度曲线**
 
-查看认知语言学的定义及描述：
+科技诞生的促动期 (Technology Trigger)
 
-> 认知语言学是语言学的一门颇新分支，它脱胎自认知心理学或认知科学，大约在1980年代后期至1990年代开始成型。认知语言学涉及电脑自然语言理解、人工智能、语言学、心理学、神经科学、系统论等多种学科，它针对当时仍很火热的生成语言学，提出：语言的创建、学习及运用，从基本上都必须能够透过人类的认知而加以解释，因为认知能力是人类知识的根本。 认知语言学有以下三大分支： 认知语义学：包括了构词法及语意分析 认知文法：透过对现存语言的分析及了解其背后产生的环境及习惯、隐喻等，归纳出来的文法规则，而不是透过数学的生成方程来产生的文法规则 认知语音学 认知语言学的创立者普遍被认为是乔治·莱考夫(George Lakoff)、马克·詹森(Mark Johnson)及朗奴·兰盖克。当中雷可夫及詹森专门研究语言中的比喻及其与人类认知的关系；而兰盖克的专长在于认知文法的生成。
+过高期望的峰值（Peak of Inflated Expectations）
 
-提取关键学科：生成语言学 知名人物：
+泡沫化的底谷期 (Trough of Disillusionment)
 
--   乔治·雷可夫 (George P. Lakoff；/ˈleɪˌkɔf/，1941年-)：认知语言学的其中一位创立者，提倡比喻(隐喻)是日常语言活动中的必须认知能力。
--   马克·詹森 (Mark Johnson）
--   朗奴·兰盖克 (Ronald Langacker，1942年12月27日-)：认知文法的提倡者
--   诺姆·乔姆斯基：他的生成语法被认为是对20世纪理论语言学研究的重要贡献。
--   Gilles Fauconnier
--   Charles J. Fillmore
--   William Croft
--   Michael Tomasello
--   戴浩一：台湾国立中正大学语言学研究所教授，是少数专长于认知语言学的华人。
--   王士元：香港中文大学现代语言学系暨中研院院士，另一少数专长于认知语言学的华人。
+稳步爬升的光明期 (Slope of Enlightenment)
 
-下一步：检索学科论文，找一个牛人检索并分析其论文
+实质生产的高原期 (Plateau of Productivity)
 
-2.  根据Google H指数找寻学科牛人
+四个阶段对应到人生的年龄阶段：0-6、6-18、18-30、30-40、40-50、50-60.
 
-在Google学术搜索cognitive linguistics，然后用插件WebScrapper简单爬取每个有主页的作者的H指数数据（其中N Chomsky 和 RW Langacker 并没有学者主页），整理如下：
+经济周期：
 
-[![](https://github.com/JanusChoi/IA002/raw/master/ch2/_image/2018-10-18-18-08-44.jpg)](https://github.com/JanusChoi/IA002/blob/master/ch2/_image/2018-10-18-18-08-44.jpg)
+科技周期
 
-3.  尝试下载牛人的论文
+#### **商业机构的生命周期**
 
-遇到问题：
+企业的生命周期三、四年为一个旋转的单位。
 
--   M Tomasello的论文数非常多，参与论文数为3060，过滤认知语言学之后还有224。如何进一步缩小结果范围？
--   Google学术多下载几页就会报错，判别可能是机器人操作
--   Google学术没有提取文献的摘要
--   Update citations的操作也会导致Google识别为机器人
--   尝试了利用收藏后导出的功能，但可得信息太少（没有附件，没有快照）
+18个月创业周期（「老王创业日记」）
 
-后面尝试使用百度学术。百度学术的好处是能提取到摘要（但提取出来的内容不完整），但拿不到引用数（考虑修改translators）。尝试了提取R Jackendoff和NC Ellis的论文：
+指数性增长企业，以人口的线性增长获得用户的指数增长，如小米、360等
 
-[![](https://github.com/JanusChoi/IA002/raw/master/ch2/_image/2018-10-19-11-42-47.jpg)](https://github.com/JanusChoi/IA002/blob/master/ch2/_image/2018-10-19-11-42-47.jpg)
+对数型增长企业，形成技术顶端优势和技术控制力和技术突破，如药明康德、大疆无人机、海康威视等
 
-[![](https://github.com/JanusChoi/IA002/raw/master/ch2/_image/2018-10-19-11-42-58.jpg)](https://github.com/JanusChoi/IA002/blob/master/ch2/_image/2018-10-19-11-42-58.jpg)
+任正非对战略资源要求多次、多角度地投入，太宽泛稀释了竞争力。
 
-4.  下载领域1000篇论文
+##### **人口周期**
 
-在中国知网搜索“认知语言学”的博硕论文，结果数为1688，按引用数排序，下载前1000篇。
+人口周期之刘易斯拐点：从某种意义上说，「人口红利」的消失过程就是「刘易斯转折点」到来的时候。
 
-[![](https://github.com/JanusChoi/IA002/raw/master/ch2/_image/2018-10-19-12-43-07.jpg)](https://github.com/JanusChoi/IA002/blob/master/ch2/_image/2018-10-19-12-43-07.jpg)
+##### **空间**
 
-5.  后续阅读策略
+产业驱动城市：优秀的人才聚集到中国十四个城市集群。陈虎平：城市演化与人生设计
 
-选一个牛人研究：G Lakoff
+总部基地 & 金融小镇：如珠三角的机器人小镇、投融资小镇，杭州的电商小镇等。小镇化也是未来商业空间布局的明显特征。
 
-最原始（上世纪80年代）： O1: Linguistics as a Cognitive Science and Its Role in an Undergraduate Curriculum. O2: Women, fire, and dangerous things: What categories tell us about the nature of thought O3: A Suggestion for a Linguistics with Connectionist Foundations
+##### **商业网络 & 单个公司**
 
-最新： N1: Lecture 4 - Ten Lectures on Cognitive Linguistics N2: Invariance principle (linguistics) N3: Mapping The Brain's Metaphor Circutry: Metaphorical Thought In Everyday Life
+###### **分析行业和公司****：****公司空间的位置以及它的子公司的势力扩展的范围。**
 
-高引用： H1: Women, fire, and dangerous things: What categories tell us about the nature of thought H2: The neural theory of metaphor（NTL）. H3: Why cognitive linguistics requires embodied realism.
+目的：通过要素分析判断公司当前运营、发展状况。
 
-感兴趣： I1：Women, fire, and dangerous things: What categories tell us about the nature of thought I2：How unconscious metaphorical thought shapes dreams. I3：What Makes a Great Speech Great
+公司——财团，企业分离战略。古河集团下属公司：
 
-I4：另外感兴趣的：M Tomasello对平克《语言本能》的书评 - Language is not an instinct
+单个公司的空间信息也能给我们很多启发，比如：写字楼租金、办公场所变迁、周边办公环境、分公司开设
 
-快速阅读提取信息：
+###### **传统财务指数**
 
-H1：概念隐喻理论(conceptual metaphor)，心智的亲身性，核型理论，格式塔 H2：NTL解决的问题有 cross-domain mapping，隐喻系统与经验的关系，从大脑视角看待隐喻理论 H3：肉体中的哲学 Philosophy in the Flesh O1： O2： O3： N1： N2： N3： I1： I2： I3： I4：
+香港交易所：[http://www.hkexnews.hk/](http://www.hkexnews.hk/)
 
-## [](https://github.com/JanusChoi/IA002/blob/master/ch2/RepTaskBasic.md#3-%E7%BB%93%E8%AE%BA)3. 结论
+上交所：[http://www.sse.com.cn/](http://www.sse.com.cn/)
 
-做这个事情的感受是，大量信息一下子涌进，脑子一下懵掉了。好像面前有一个庞然大物，让我心生恐惧——于是在粗略读完三篇最高引用的文章后，决定先放一放去解决前面遇到的一些可解决的技术问题（笑哭）。
+深交所：[http://www.szse.cn/](http://www.szse.cn/)
 
-基本得到的一个讯息是，乔治·莱考夫的几本作品很值得一看，分别是：《我们赖以生存的隐喻》，《女人、火与危险事物：范畴显示的心智》，《肉身哲学：亲身心智及其向西方世界的挑战》还《乔治·莱考夫认知语言学十讲》
+美国证券交易：[https://www.sec.gov/](https://www.sec.gov/)
 
-## [](https://github.com/JanusChoi/IA002/blob/master/ch2/RepTaskBasic.md#4-%E8%AE%A8%E8%AE%BA)4. 讨论
+###### **战略控制指教：对生态链的控制指数一一控制点**
 
-### [](https://github.com/JanusChoi/IA002/blob/master/ch2/RepTaskBasic.md#41-%E5%AF%B9%E7%BB%93%E8%AE%BA%E7%9A%84%E8%AE%A8%E8%AE%BA)4.1 对结论的讨论
+战略控制是为了保护企业所创造的利润流，具体的手段称为战略控制点，比如品牌、专利、20% 的成本优势、拥有客户信息流等。
 
--   未完成暂不讨论
+战略控制点指数评估企业盈利的能力。
 
-### [](https://github.com/JanusChoi/IA002/blob/master/ch2/RepTaskBasic.md#42-%E5%8F%AF%E4%BC%98%E5%8C%96%E7%9A%84%E7%8E%AF%E8%8A%82)4.2 可优化的环节
+###### **其他可借鉴的分析模型**
 
--   学科确定环节应用时更短些
--   找两个平台替代Google学术——（有引用数，有摘要）
+明茨伯格：战略 5P 模型
 
-### [](https://github.com/JanusChoi/IA002/blob/master/ch2/RepTaskBasic.md#43-%E6%94%B6%E8%8E%B7)4.3 收获
+大前研一：3C 战略模型
 
-找到一般大众看不到的信息点：例如H指数174的 M Tomasello，在发展心理学，认知科学，进化人类学，进化心理学等领域都有很多论文，在认知语言学方面更多地研究语言建构。
+波特：波特五力分析模型，十种战略模型
 
-## [](https://github.com/JanusChoi/IA002/blob/master/ch2/RepTaskBasic.md#5-%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE)5. 参考文献
+变量关系
 
-[维基百科-认知语言学](https://zh.wikipedia.org/wiki/%E8%AA%8D%E7%9F%A5%E8%AA%9E%E8%A8%80%E5%AD%B8)
+时间周期，理解两类周期：大的经济周期、人口周期、科技周期，这些大的周期是以10年到60年为单位，小的企业生命周期是指企业的生命周期大致三年为单位。
 
-Lakoff, “Linguistics as a Cognitive Science and Its Role in an Undergraduate Curriculum. Linguistics in the Undergraduate Curriculum, Appendix 4-F.”; Lakoff, Women, Fire, and Dangerous Things; Lakoff, “A Suggestion for a Linguistics with Connectionist Foundations”; Lakoff, “How Unconscious Metaphorical Thought Shapes Dreams.”; Johnson and Lakoff, “Why Cognitive Linguistics Requires Embodied Realism.”; Lakoff, “The Neural Theory of Metaphor.”; Lakoff, “Mapping The Brain’s Metaphor Circutry”; Lakoff, “Invariance Principle (Linguistics)”; Lakoff, “Lecture 4 - Ten Lectures on Cognitive Linguistics”; Lakoff and Com, “What Makes a Great Speech Great.”
+互联网指数增长模型18个月，为单位大约九年可以上市。
 
-## [](https://github.com/JanusChoi/IA002/blob/master/ch2/RepTaskBasic.md#changelog)changelog
+智能制造、生物制造业的发展多半符合非指数型模型，类似对数增长模型。
 
-181017-确定思路，研究学科 181018-找牛人，批量下载论文 181017-阅读收集回来的资料
+空间：在空间分布主要关注城市变迁的范围，新兴科技、园区新兴产业小镇的同步的发展。
+
+财务变量上除了关注财务数据，特别是理解企业的战略控制指数。
+
+# **实践策略卡包 7 个：实践策略详解**
+
+## **了解宏观经济环境**
+
+## **挖掘公司背后网络**
+
+## **获取公司基础信息**
+
+## **分析公司传统财务指标**
+
+## **分析公司战略控制指标**
+
+## **产品分析**
+
+## **舆论分析**
+
+## **彩蛋卡包 1 个：从 SWOT 分析到模糊数学**
+
+# **答疑点评卡包 1 个：典型问题和答疑精华**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMDgyNTIzNSw1OTUxMDM2MjIsLTIwOD
-g3NDY2MTIsMTI2OTY5MTEwNl19
+eyJoaXN0b3J5IjpbLTI0ODU3NTMzMSwxOTAwODI1MjM1LDU5NT
+EwMzYyMiwtMjA4ODc0NjYxMiwxMjY5NjkxMTA2XX0=
 -->
