@@ -1,6 +1,16 @@
+[国务院办公厅关于印发全国深化“放管服”改革转变政府职能电视电话会议重点任务分工方案的通知（国办发〔2018〕79号）_政府信息公开专栏](http://www.gov.cn/zhengce/content/2018-08/14/content_5313752.htm)
 
+[国务院办公厅关于开展工程建设项目审批制度改革试点的通知（国办发〔2018〕33号）_政府信息公开专栏](http://www.gov.cn/zhengce/content/2018-05/18/content_5291843.htm)
+
+[省人民政府关于进一步优化营商环境的若干意见  - 湖北省政府信息公开平台](http://www.hubei.gov.cn/govfile/ezf/201807/t20180717_1317325.shtml)
+
+[省人民政府办公厅关于印发湖北省深化“互联网+放管服”改革工作方案的通知 - 湖北省政府信息公开平台](http://www.hubei.gov.cn/govfile/ezbh/201804/t20180413_1274217.shtml)
+
+[省人民政府关于深化“放管服”改革持续推进政府职能转变的实施意见 - 湖北省政府信息公开平台](http://www.hubei.gov.cn/govfile/ezf/201808/t20180803_1326879.shtml)
+
+[省人民政府办公厅关于印发湖北省开发区、工业园区区域性统一评价试点工作方案和省投资项目在线审批监管平台与省政务服务网对接及推广应用工作方案的通知](http://www.hubei.gov.cn/govfile/ezbf/201810/t20181029_1362740.shtml)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODg3NDY2MTIsOTAwNjc0MjQxLDE5MD
-A4MjUyMzUsNTk1MTAzNjIyLC0yMDg4NzQ2NjEyLDEyNjk2OTEx
-MDZdfQ==
+eyJoaXN0b3J5IjpbLTI2ODY4MjI0LC0yMDg4NzQ2NjEyLDkwMD
+Y3NDI0MSwxOTAwODI1MjM1LDU5NTEwMzYyMiwxMjY5NjkxMTA2
+XX0=
 -->
